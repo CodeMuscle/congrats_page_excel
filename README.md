@@ -1,2 +1,1 @@
-# congrats_page_excel
-Siddharth Workshop Congrats Page
+# trainity_congratulations_page
